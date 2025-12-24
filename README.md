@@ -43,20 +43,6 @@ This project demonstrates the application of deep learning, data scaling, and la
 
 ---
 
-## Project Structure
-Soil-Profile-Generation-Using-GANs-main/
-│
-├── main.py # Flask application
-├── classification_model (1).h5
-├── generator_epoch_5000 (1).h5
-├── scaler.pkl
-├── label_encoder.pkl
-├── requirements.txt
-├── README.md
-├── templates/
-│ └── index.html # Frontend template
-└── static/
-└── soil.jpeg # Project image
 
 ## Setup Instructions
 
