@@ -1,6 +1,9 @@
 #PhytoProfile  Soil-Profile-Generation-using-GANs
 
-![Project Image](static/soil.jpeg)
+
+<img src="soil.jpeg" alt="Description" width="500"/>
+
+
 
 ## Overview
 **PhytoProfile** is a web-based application that leverages **Generative Adversarial Networks (GANs)** and **Machine Learning** to generate synthetic soil profiles, classify soil health, and recommend suitable crops. This tool allows users to input key soil parameters (like pH, electrical conductivity, and nutrient content), generate new soil profiles, and receive actionable insights for optimal plant growth.
