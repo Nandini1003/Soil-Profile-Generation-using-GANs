@@ -1,8 +1,8 @@
-#PhytoProfile  Soil-Profile-Generation-using-GANs
+# PhytoProfile  Soil-Profile-Generation-using-GANs
 
-
-<img src="soil.jpeg" alt="Description" width="500"/>
-
+<div align="center">
+<img src="soil.jpeg" alt="Description" width="500" />
+</div>
 
 
 ## Overview
